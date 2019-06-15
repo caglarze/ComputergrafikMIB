@@ -1,0 +1,10 @@
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.deps.json
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.dll
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\bin\Debug\netstandard2.0\Tut10_MeshCompleted.pdb
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.csprojAssemblyReference.cache
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.csproj.CoreCompileInputs.cache
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.AssemblyInfoInputs.cache
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.AssemblyInfo.cs
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.dll
+C:\Users\Media\Desktop\ComputergrafikMIB\Tut10_MeshCompleted\obj\Debug\netstandard2.0\Tut10_MeshCompleted.pdb
